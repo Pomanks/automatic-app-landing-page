@@ -40,20 +40,20 @@ features                                  :
     fontawesome_icon_name                 : history
 
   - title                                 : Discover
-    description                           : Browse tons of movies ordered by different categories like "Trending", "Popular", "Anticipated" and more.
+    description                           : Browse tons of movies sorted in different categories such as “Trending”, “Popular”, “Anticipated” and more.
     fontawesome_icon_name                 : star
 
-  - title                                 : Details, details, details!
-    description                           : Know everything about your movies! Score, release date, runtime,  genres, overview, casting, …
+  - title                                 : The details you need!
+    description                           : Score, release date, runtime,  genres, overview, casting, … Know everything about your movies! 
     fontawesome_icon_name                 : info-circle
 
-  # - title                                 : Easy to Tweak
-  #   description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : adjust
+  - title                                 : Dark Mode
+    description                           : You read right, there's a Dark Mode! We proudly call it “Night Fury” (rings any bell?). This feature is unlockable through In App Purchases.
+    fontawesome_icon_name                 : moon
   
-  # - title                                 : Feature List
-  #   description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : star
+  - title                                 : Want more?
+    description                           : Tell us all about some features you would love to see in the app at ideas@popcornmovies.app 
+    fontawesome_icon_name                 : lightbulb
 
   # - title                                 : Smart App Banner
   #   description                           : Display a smart app banner on iOS devices.
