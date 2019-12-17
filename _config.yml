@@ -6,13 +6,13 @@ ios_app_id                                : 1400768489                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : # https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Not just another Trakt client!
+app_description                           : The Trakt client you deserve!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,28 +34,32 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Stay in sync
+    description                           : Wether you add movies to your Watchlist, History or Collection, they will always be synced back to your Trakt account.
+    fontawesome_icon_name                 : sync-alt
+
   - title                                 : Watchlist
     description                           : Add all the movies you plan on watching!
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : far play-circle
     
   - title                                 : History
     description                           : Keep track of those you have already seen.
     fontawesome_icon_name                 : history
 
   - title                                 : Discover
-    description                           : Browse tons of movies sorted in different categories such as “Trending”, “Popular”, “Anticipated” and more.
-    fontawesome_icon_name                 : star
+    description                           : Browse tons of movies from categories like “Trending”, “Popular”, “Anticipated”, …\nCouldn't find the one you were looking for? Well… there's a search bar for that!
+    fontawesome_icon_name                 : search
 
-  - title                                 : The details you need!
-    description                           : Score, release date, runtime,  genres, overview, casting, … Know everything about your movies! 
+  - title                                 : All the details you've ever wanted
+    description                           : Score, release date, runtime, genres, overview, casting, … Know everything about every movie!
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : Dark Mode
-    description                           : You read right, there's a Dark Mode! We proudly call it “Night Fury” (rings any bell?). This feature is unlockable through In App Purchases.
-    fontawesome_icon_name                 : moon
+  - title                                 : iOS 13 Support
+    description                           : The app supports a lot of iOS 13 features such as Dark/Light Mode, Contextual Menus, Rich Link Previews, Modal presentation style and so much more!
+    fontawesome_icon_name                 : check
   
   - title                                 : Want more?
-    description                           : Tell us all about some features you would love to see in the app at ideas@popcornmovies.app 
+    description                           : Send us your ideas to : ideas@popcornmovies.app
     fontawesome_icon_name                 : lightbulb
 
   # - title                                 : Smart App Banner
