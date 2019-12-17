@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : check
 
   - title                                 : Want more?
-    description                           : Send us your ideas to : ideas@popcornmovies.app
+    description                           : Send us your ideas to “ideas@popcornmovies.app”
     fontawesome_icon_name                 : lightbulb
 
   # - title                                 : Smart App Banner
