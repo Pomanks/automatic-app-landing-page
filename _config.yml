@@ -38,13 +38,9 @@ features                                  :
     description                           : Wether you add movies to your Watchlist, History or Collection, they will always be synced back to your Trakt account.
     fontawesome_icon_name                 : sync-alt
 
-  - title                                 : Watchlist
-    description                           : Add all the movies you plan on watching!
-    fontawesome_icon_name                 : far play-circle
-
-  - title                                 : History
-    description                           : Keep track of those you have already seen.
-    fontawesome_icon_name                 : history
+  - title                                 : Checkin
+    description                           : In a movie theater? Perform a Check In to share on your social networks which movie you're watching! This is the way…
+    fontawesome_icon_name                 : play-circle
 
   - title                                 : Discover
     description                           : Browse tons of movies from categories like “Trending”, “Popular”, “Anticipated”, …\nCouldn't find the one you were looking for? Well… there's a search bar for that!
