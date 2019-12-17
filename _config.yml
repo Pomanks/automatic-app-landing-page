@@ -39,11 +39,12 @@ features                                  :
     fontawesome_icon_name                 : sync-alt
 
   - title                                 : Checkin
-    description                           : In a movie theater? Perform a Check In to share on your social networks which movie you're watching! This is the way…
+    description                           : In a movie theater? Perform a Check In to share on your social networks the movie you're watching! This is the way.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Discover
-    description                           : Browse tons of movies from categories like “Trending”, “Popular”, “Anticipated”, …\nCouldn't find the one you were looking for? Well… there's a search bar for that!
+    description                           : Browse tons of movies from categories like “Trending”, “Popular”, “Anticipated”, …
+                                            Couldn't find the one you were looking for? The search bar will be with you. Always!
     fontawesome_icon_name                 : search
 
   - title                                 : All the details you've ever wanted
@@ -55,7 +56,7 @@ features                                  :
     fontawesome_icon_name                 : check
 
   - title                                 : Want more?
-    description                           : Send us your ideas to “ideas@popcornmovies.app”
+    description                           : Send us your ideas to “ideas@popcornmovies.app”.
     fontawesome_icon_name                 : lightbulb
 
   # - title                                 : Smart App Banner
