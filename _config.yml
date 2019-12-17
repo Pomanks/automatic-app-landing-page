@@ -19,9 +19,9 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Antoine Barré                                
+your_name                                 : Antoine Barré
 your_link                                 : https://twitter.com/Pomanks
-your_city                                 : Nantes                             
+your_city                                 : Nantes
 email_address                             : contact@popcornmovies.app
 facebook_username                         :
 instagram_username                        :
@@ -41,7 +41,7 @@ features                                  :
   - title                                 : Watchlist
     description                           : Add all the movies you plan on watching!
     fontawesome_icon_name                 : far play-circle
-    
+
   - title                                 : History
     description                           : Keep track of those you have already seen.
     fontawesome_icon_name                 : history
@@ -57,7 +57,7 @@ features                                  :
   - title                                 : iOS 13 Support
     description                           : The app supports a lot of iOS 13 features such as Dark/Light Mode, Contextual Menus, Rich Link Previews, Modal presentation style and so much more!
     fontawesome_icon_name                 : check
-  
+
   - title                                 : Want more?
     description                           : Send us your ideas to : ideas@popcornmovies.app
     fontawesome_icon_name                 : lightbulb
