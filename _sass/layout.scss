@@ -503,7 +503,7 @@ nav > ul li a:active {
 }
 
 .iconBack {
-	color: $feature-icons-background-color;
+	color: rgba($feature-icons-background-color, 0.12);
 }
 
 .iconTop {
@@ -511,7 +511,7 @@ nav > ul li a:active {
 }
 
 .socialIconBack {
-	color: $social-icons-background-color;
+	color: rgba($social-icons-background-color, 0.12);
 }
 
 .socialIconTop {
@@ -614,7 +614,7 @@ footer {
 }
 
 .footerText {
-	color: $footer-text-color;
+	color: rgba($footer-text-color, 0.6);
 	display: block;
 	line-height: 1.5;
 	width: 100%;
@@ -666,7 +666,7 @@ footer {
 @media only screen and (max-width: 992px) {
 	
 	.footerText {
-		color: $footer-text-color;
+		color: rgba($footer-text-color, 0.6);
 		display: block;
 		line-height: 1.5;
 		width: 100%;
