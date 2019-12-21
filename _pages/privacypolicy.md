@@ -10,7 +10,7 @@ December 19, 2019
 
 # Privacy Policy
 
-Effective date: December 19, 2019
+**Effective date: May 8, 2019**
 
 Popcorn Movies (« us », « we », or « our ») operates the Popcorn Movies mobile application (hereinafter referred to as the « Service »).
 
@@ -133,6 +133,8 @@ These third parties have access to your Personal Data only to perform these task
 
 ### 7.1 Payments
 
+[7.1]: https://www.apple.com/legal/privacy/en-ww/
+
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
 
 We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
@@ -141,7 +143,7 @@ The payment processors we work with are:
 
 * App Store In-App Purchases
 
-Their Privacy Policy can be viewed at [https://www.apple.com/legal/privacy/en-ww/]
+Their Privacy Policy can be viewed at [7.1]
 
 <br>
 
@@ -173,6 +175,8 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## 11. Contact Us
 
+[11.1]: https://popcornmovies.app
+
 If you have any questions about this Privacy Policy, please contact us:
 
-* By visiting this page on our website: [https://popcornmovies.app]
+* By visiting this page on our website: [11.1]
