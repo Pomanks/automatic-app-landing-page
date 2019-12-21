@@ -523,11 +523,11 @@ nav > ul li a:active {
 }
 
 .featureText > h3 {
-	color: rgba($feature-title-color, 0.6);
+	color: $feature-title-color;
 }
 
 .featureText > p {
-	color: rgba($feature-title-color, 0.6);
+	color: rgba($feature-text-color, 0.6);
 	margin-top: 8px;
 	line-height: 1.5;
 }
