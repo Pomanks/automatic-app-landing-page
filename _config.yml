@@ -127,7 +127,6 @@ footer_text_color                         : "#3c3c43"
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
-include: [".well-known"]
 # Exclude these files from your production _site
 exclude:
   - LICENSE
