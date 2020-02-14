@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "W258AGX455.com.pomanks.apps.popcorn-movies",
+      "paths": ["*"]
+    },
+    {
+      "appID": "W258AGX455.com.pomanks.apps.popcorn-movies.debug",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
