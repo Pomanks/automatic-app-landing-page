@@ -3,12 +3,20 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "W258AGX455.com.pomanks.apps.popcorn-movies",
-				"paths": ["*"]
-			},
-			{
-				"appID": "W258AGX455.com.pomanks.apps.popcorn-movies.debug",
-				"paths": ["*"]
+				"appIDs": [
+					"W258AGX455.com.pomanks.apps.popcorn-movies",
+					"W258AGX455.com.pomanks.apps.popcorn-movies.debug"
+				],
+				"components": [
+					{
+						"/": "/movies/",
+						"comment": "Matches any URL whose path starts with /movies/"
+					},
+					{
+						"/": "/people/",
+						"comment": "Matches any URL whose path starts with /people/"
+					}
+				]
 			}
 		]
 	}
