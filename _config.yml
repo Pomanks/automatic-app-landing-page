@@ -1,12 +1,12 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Popcorn Movies                            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1400768489                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : # https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
+presskit_download_link                    : # https://emilbaehr.com                   # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -25,7 +25,7 @@ your_city                                 : Nantes
 email_address                             : contact@popcornmovies.app
 facebook_username                         :
 instagram_username                        :
-twitter_username                          : Popcorn__Movies
+twitter_username                          : Pomanks
 github_username                           : pomanks
 youtube_username                          :
 
@@ -135,6 +135,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - CHANGELOG.md
 
 collections:
   pages:
