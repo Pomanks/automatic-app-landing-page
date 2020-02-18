@@ -6,14 +6,14 @@
 				"W258AGX455.com.pomanks.apps.popcorn-movies.debug"
 			],
 			"components": [{
-					"/": "/movies/*",
-					"comment": "Matches any URL whose path starts with /movies/"
-				},
-				{
-					"/": "/people/*",
-					"comment": "Matches any URL whose path starts with /people/"
-				}
-			]
+				"/": "/movies/*",
+			},
+			{
+				"/": "/people/*",
+			},
+			{
+				"/": "/privacypolicy",
+			}]
 		}]
 	}
 }
