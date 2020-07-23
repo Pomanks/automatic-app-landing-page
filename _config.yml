@@ -86,8 +86,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#767680"
-topbar_transparency                       : 0.15
+topbar_color                              : "#7676802E"
+topbar_transparency                       : 1
 topbar_title_color                        : "#FFFFFF"
 
 cover_image                               : assets/iron-man.jpg  # Replace with alternative image path or image URL.
@@ -108,10 +108,10 @@ feature_title_color                       : "#FFFFFF"
 feature_text_color                        : "#EBEBF599"
 
 feature_icons_foreground_color            : "#FF375F"
-feature_icons_background_color            : "#3A3A3C"
+feature_icons_background_color            : "#7878805C"
 
 social_icons_foreground_color             : "#FF375F"
-social_icons_background_color             : "#3A3A3C"
+social_icons_background_color             : "#7878805C"
 
 footer_text_color                         : "#EBEBF54D"
 
