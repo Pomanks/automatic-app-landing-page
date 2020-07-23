@@ -34,26 +34,34 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : Manage your lists
+    description                           : You can add, remove or update any movie from either your Watchlist, History or Collection.
+    fontawesome_icon_name                 : stream
+
   - title                                 : Stay in sync
-    description                           : Wether you add movies to your Watchlist, History or Collection, they will always be synced back to your Trakt account.
+    description                           : Wether you perform some action from Trakt.tv or from Popcorn Movies, all the changes will be sync back and forth automatically.
     fontawesome_icon_name                 : sync-alt
 
   - title                                 : Checkin
-    description                           : In a movie theater? Perform a Check In to share on your social networks the movie you're watching! This is the way.
+    description                           : Watching something? Just perform a Check In and, if enabled, it will automatically create a post on your favorite social networks.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Discover
-    description                           : Browse tons of movies from categories like “Trending”, “Popular”, “Anticipated”, …
-                                            Couldn't find the one you were looking for? The search bar will be with you. Always!
+  - title                                 : Browse
+    description                           : Discover tons of new movies.. or search your own. You will never run out of ideas!
     fontawesome_icon_name                 : search
 
-  - title                                 : All the details you've ever wanted
-    description                           : Score, release date, runtime, genres, overview, casting, … Know everything about every movie!
+  - title                                 : At a glance
+    description                           : Each movie summary opens with a quick access to the more common information but also gives you rich details too.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : iOS 13 Support
-    description                           : The app supports a lot of iOS 13 features such as Dark/Light Mode, Contextual Menus, Rich Link Previews, Modal presentation style and so much more!
+  - title                                 : Ready for iOS 13, soon for iOS 14…
+    description                           : Supports automatic mode switching (Dark/Light), context menus, rich links, the new modal presentation and so much more! iOS 14 support will come this fall!
     fontawesome_icon_name                 : check
+
+  - title                                 : Dynamic Type
+    description                           : Native support for Dynamic Type, the app will always match your own font size!
+    fontawesome_icon_name                 : universal-access
+
 
   - title                                 : Want more?
     description                           : Send us your ideas to “ideas@popcornmovies.app”.
@@ -71,9 +79,9 @@ features                                  :
   #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
   #   fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+#  - title                                 : # New Feature Title
+#    description                           : # New Feature Description
+#    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
@@ -82,7 +90,7 @@ topbar_color                              : "#767680"
 topbar_transparency                       : 0.15
 topbar_title_color                        : "#FFFFFF"
 
-cover_image                               : https://walter.trakt.tv/images/movies/000/001/157/fanarts/full/055214b01b.jpg  # Replace with alternative image path or image URL.
+cover_image                               : assets/iron-man.jpg  # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0
 
@@ -100,10 +108,10 @@ feature_title_color                       : "#FFFFFF"
 feature_text_color                        : "#EBEBF599"
 
 feature_icons_foreground_color            : "#FF375F"
-feature_icons_background_color            : "#2C2C2E"
+feature_icons_background_color            : "#3A3A3C"
 
 social_icons_foreground_color             : "#FF375F"
-social_icons_background_color             : "#2C2C2E"
+social_icons_background_color             : "#3A3A3C"
 
 footer_text_color                         : "#EBEBF54D"
 
