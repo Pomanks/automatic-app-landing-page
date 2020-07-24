@@ -4,62 +4,62 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
-
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+# **Version 1.2.0**
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+Hey folks!
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+It's been around 7 months since the lat­est up­date and let me tell you : I've been hard at work!
+This new ver­sion is packed with lots of new fea­tures, im­prove­ments, sys­tem in­te­gra­tions and so much more!
 
-<br>
+### **What's new**
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+• **iPad sup­port**
+The app is now ready to run on big­ger screens… and it looks amaz­ing! 
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+• Re­designed Movie Sum­ma­ry
+The view has been re­designed from the ground up and now fea­tures even more info about your movies in­clud­ing the new sec­tions trail­ers, about, rat­ings and in­for­ma­tion sec­tions.
 
-<br>
+• **Movie rat­ing**
+You can now rate your fa­vorite movies with Pop­corn­Movies.
 
-________
-<br>
+• **New share sheet style ac­tions**
+The main ac­tions you can per­form have been im­proved and you can now choose to or­ga­nize them as.y­ou.­like!
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+• **SF Sym­bols and Ac­cent col­or**
+The app fea­tures a brand new ac­cent col­or and all pre­vi­ous­ly used icons have been re­placed with SF Sym­bols.
 
-<br>
+• **Dy­nam­ic Type**
+Thanks to Dy­nam­ic Type, all the app will now fol­low your pre­ferred text size and adapt ac­cord­ing­ly to be more ac­ces­si­ble than be­fore. 
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+• **Movie shar­ing**
+You can now share this movie you like so much to any­one and if they have the app al­ready in­stalled, it'll open its sum­ma­ry right away!
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+• **List Search­ing** 
+You can now search spe­cif­ic items in your Watch­list, His­to­ry and Col­lec­tion by ti­tle or genre.
 
-<br>
+• **New Watch­list ban­ner style**
+All movies match­ing the cur­rent year will now dis­play a bit more in­for­ma­tion wether they’re re­leased or not. If they are not re­leased yet, you will now have a bet­ter idea how long you need to wait.
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+• **User Pro­file**
+Your pro­file has been re­designed too, and it dis­plays your in­for­ma­tion way more el­e­gant­ly.. go check it out!
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+• **Shar­ing Pref­er­ences**
+From your very own pro­file, you will now be able to up­date your shar­ing pref­er­ences any­time to en­able, for ex­am­ple, shar­ing to Twit­ter while per­form­ing a checkin.
+  
+  
+### **Im­prove­ments**
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+• The ac­count icon has moved from the Set­tings to the top of your lists. It also fea­tures a con­text menu to let you sign out quick­ly.
 
-<br>
+• The Search screen has been re­designed a bit too, main­ly to make it adap­tive to big­ger screens and to im­prove its per­for­mances.
+
+• Con­text menus are now avail­able every­where in the app and fea­ture some con­tex­tu­al ac­tions de­pend­ing on the list they be­long!
+
+• All ac­tions re­quir­ing date in­for­ma­tions now ben­e­fit a brand new view to quick­ly se­lect the date and time.
+
+• Your His­to­ry will now be dis­played and sort­ed by “last watched” date.
+
+• Many im­prove­ments on the Set­tings screen (such as Split View sup­port on iPad, more ex­plic­it icons, meta­da­ta lan­guage se­lec­tion, API sta­tus check, pri­va­cy pol­i­cy, …).
+
+• The pre­vi­ous Quick­sand font has been re­placed in fa­vor of SF Round­ed to sup­port more dy­nam­ic sizes and take full ad­van­tage of dy­nam­ic type.
