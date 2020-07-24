@@ -14,37 +14,37 @@ This new ver­sion is packed with lots of new fea­tures, im­prove­ments, sys�
 
 ### **What's new**
 
-• **iPad sup­port**
+• **iPad sup­port**  
 The app is now ready to run on big­ger screens… and it looks amaz­ing! 
 
-• Re­designed Movie Sum­ma­ry
+• **Re­designed Movie Sum­ma­ry**  
 The view has been re­designed from the ground up and now fea­tures even more info about your movies in­clud­ing the new sec­tions trail­ers, about, rat­ings and in­for­ma­tion sec­tions.
 
-• **Movie rat­ing**
+• **Movie rat­ing**  
 You can now rate your fa­vorite movies with Pop­corn­Movies.
 
-• **New share sheet style ac­tions**
+• **New share sheet style ac­tions**  
 The main ac­tions you can per­form have been im­proved and you can now choose to or­ga­nize them as.y­ou.­like!
 
-• **SF Sym­bols and Ac­cent col­or**
+• **SF Sym­bols and Ac­cent col­or**  
 The app fea­tures a brand new ac­cent col­or and all pre­vi­ous­ly used icons have been re­placed with SF Sym­bols.
 
-• **Dy­nam­ic Type**
+• **Dy­nam­ic Type**  
 Thanks to Dy­nam­ic Type, all the app will now fol­low your pre­ferred text size and adapt ac­cord­ing­ly to be more ac­ces­si­ble than be­fore. 
 
-• **Movie shar­ing**
+• **Movie shar­ing**  
 You can now share this movie you like so much to any­one and if they have the app al­ready in­stalled, it'll open its sum­ma­ry right away!
 
-• **List Search­ing** 
+• **List Search­ing**  
 You can now search spe­cif­ic items in your Watch­list, His­to­ry and Col­lec­tion by ti­tle or genre.
 
-• **New Watch­list ban­ner style**
+• **New Watch­list ban­ner style**  
 All movies match­ing the cur­rent year will now dis­play a bit more in­for­ma­tion wether they’re re­leased or not. If they are not re­leased yet, you will now have a bet­ter idea how long you need to wait.
 
-• **User Pro­file**
+• **User Pro­file**  
 Your pro­file has been re­designed too, and it dis­plays your in­for­ma­tion way more el­e­gant­ly.. go check it out!
 
-• **Shar­ing Pref­er­ences**
+• **Shar­ing Pref­er­ences**  
 From your very own pro­file, you will now be able to up­date your shar­ing pref­er­ences any­time to en­able, for ex­am­ple, shar­ing to Twit­ter while per­form­ing a checkin.
   
   
