@@ -6,6 +6,9 @@
 				"W258AGX455.com.pomanks.apps.popcorn-movies.debug"
 			],
 			"components": [{
+				"/": "/oauth",
+			},
+			{
 				"/": "/movies/*",
 			},
 			{
