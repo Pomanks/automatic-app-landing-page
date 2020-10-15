@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : POWERFUL HISTORY
     description                           : You don’t remember having watched a specific movie? Quickly search your History and you’ll know! You’ve watched a movie multiple times? You can add - and delete - as many plays as you want.
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : history
 
   - title                                 : STAY IN SYNC
     description                           : Every movie you add to your lists will be synchronized to/from your Trakt account, instantly!
