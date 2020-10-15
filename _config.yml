@@ -34,56 +34,49 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Manage your lists
-    description                           : You can add, remove or update any movie from either your Watchlist, History or Collection.
+  - title                                 : MANAGE YOUR WATCHLIST
+    description                           : Your Watchlist is the best way to never forget the movies you’d like to watch!
     fontawesome_icon_name                 : stream
 
-  - title                                 : Stay in sync
-    description                           : Wether you perform some action from Trakt.tv or from Popcorn Movies, all the changes will be sync back and forth automatically.
+  - title                                 : SEE WHAT’S COMING
+    description                           : All upcoming movies are automatically added into the Upcoming list so you know what’s available or not..
+    fontawesome_icon_name                 : calendar-alt
+
+  - title                                 : POWERFUL HISTORY
+    description                           : You don’t remember having watched a specific movie? Quickly search your History and you’ll know! You’ve watched a movie multiple times? You can add - and delete - as many plays as you want.
+    fontawesome_icon_name                 : searchengin
+
+  - title                                 : STAY IN SYNC
+    description                           : Every movie you add to your lists will be synchronized to/from your Trakt account, instantly!
     fontawesome_icon_name                 : sync-alt
 
-  - title                                 : Checkin
-    description                           : Watching something? Just perform a Check In and, if enabled, it will automatically create a post on your favorite social networks.
+  - title                                 : CHECKIN / NOW WATCHING
+    description                           : Tell others you’re watching some movie with a Checkin and quickly see its informations right from your profile! No more searching for the movie in your list or anywhere else!
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Browse
-    description                           : Discover tons of new movies.. or search your own. You will never run out of ideas!
+  - title                                 : BROWSE
+    description                           : Discover tons of new movies with new suggestions from other Trakt users.. You will never run out of ideas ever again!
+    fontawesome_icon_name                 : film
+
+  - title                                 : SEARCH
+    description                           : Sometimes you just know what you’re looking for.. The advanced search feature will help you find it in no time! Double tap on the Browse item to activate Quick Search.
     fontawesome_icon_name                 : search
 
-  - title                                 : At a glance
-    description                           : Each movie summary opens with a quick access to the more common information but also gives you rich details too.
+  - title                                 : SHARE
+    description                           : You want others to know about an interesting movie? Simply share it with them via AirDrop, iMessage and more!
+    fontawesome_icon_name                 : share
+
+  - title                                 : RATINGS
+    description                           : Rate your favorite movies right from their page and see how others feel about them too!
+    fontawesome_icon_name                 : star
+
+  - title                                 : CHECK YOUR STATS
+    description                           : Your profile is the right place to check your last activities and movies stats.. Let’s see how many movies you’ve watched until now!
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : Ready for iOS 13, soon for iOS 14…
-    description                           : Supports automatic mode switching (Dark/Light), context menus, rich links, the new modal presentation and so much more! iOS 14 support will come this fall!
-    fontawesome_icon_name                 : check
-
-  - title                                 : Dynamic Type
-    description                           : Native support for Dynamic Type, the app will always match your own font size!
-    fontawesome_icon_name                 : universal-access
-
-
-  - title                                 : Want more?
-    description                           : Send us your ideas to “ideas@popcornmovies.app”.
-    fontawesome_icon_name                 : lightbulb
-
-  # - title                                 : Smart App Banner
-  #   description                           : Display a smart app banner on iOS devices.
-  #   fontawesome_icon_name                 : arrow-alt-circle-down
-
-  # - title                                 : Social Links
-  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : link
-
-  # - title                                 : FontAwesome Support
-  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-  #   fontawesome_icon_name                 : info-circle
-
-#  - title                                 : # New Feature Title
-#    description                           : # New Feature Description
-#    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
+  - title                                 : AND MORE TO COME…
+    description                           : New features are constantly added over time, stay tuned by following us on Twitter and/or Reddit!
+    fontawesome_icon_name                 : ellipsis-h
 
 # Theme Settings
 topbar_color                              : "#767680"
