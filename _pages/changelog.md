@@ -5,6 +5,52 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.2.1**
+
+### ** NEW FEATURES **
+
+• Introducing the new Sidebar for iPadOS 14 users and multiple windows support for all iPadOS users!
+
+• Introducing a new “Upcoming” view containing the upcoming movies from your Watchlist.
+
+• New CoreSpotlight integration: you can now access your content even without having to launch the app first!
+
+• New Quick Search feature: double tap the Browse tab to display the Search view and enter your query right away!
+
+• New Search Fields: you can now add specific fields to your search to limit the results to those fields. 
+
+• Added the new Trakt Recommendations in the Browsing view.
+
+• Introducing “Now Watching”: quickly check any current checkin or scrobble right from your profile!
+
+
+### ** NEW PREMIUM FEATURES **
+
+• Introducing a richer History: you can now get a better overview of your History for a whole year or a single movie, day by day.
+
+• Introducing Drag and Drop for all iPad OS users: move one or multiple items at once into your lists!
+
+
+### ** IMPROVEMENTS **
+
+A huge work was made regarding the stability and the overall user experience of Popcorn Movies.
+The app now delivers smooth animations in your lists, loads images better and faster than ever, refreshes your data instantly and gives you a whole new level of experience!
+
+
+• Sharing with AirDrop and iMessage have been slightly improved.
+
+• Hide a Recommendation issues have been fixed. 
+
+• Lists refreshes were improved while performing actions such as adding/removing items to or from your lists.
+
+• Genre and original title can now be used to search your lists.
+
+• The Box Office presentation has been tweaked a bit.
+
+•  iOS/iPad OS 14 users are now able to clear the whole “Recent”
+
+
+
 # **Version 1.2.0**
 
 Hey folks!
