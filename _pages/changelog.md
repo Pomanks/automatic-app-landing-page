@@ -7,7 +7,7 @@ include_in_header: true
 ### `Latest`
 # **Version 1.2.1**
 
-### ** NEW FEATURES **
+### NEW FEATURES
 
 • Introducing the new Sidebar for iPadOS 14 users and multiple windows support for all iPadOS users!
 
@@ -24,14 +24,14 @@ include_in_header: true
 • Introducing “Now Watching”: quickly check any current checkin or scrobble right from your profile!
 
 
-### ** NEW PREMIUM FEATURES **
+### NEW PREMIUM FEATURES
 
 • Introducing a richer History: you can now get a better overview of your History for a whole year or a single movie, day by day.
 
 • Introducing Drag and Drop for all iPad OS users: move one or multiple items at once into your lists!
 
 
-### ** IMPROVEMENTS **
+### IMPROVEMENTS
 
 A huge work was made regarding the stability and the overall user experience of Popcorn Movies.
 The app now delivers smooth animations in your lists, loads images better and faster than ever, refreshes your data instantly and gives you a whole new level of experience!
