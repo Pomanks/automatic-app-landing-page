@@ -5,7 +5,53 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.2.2**
+
+
+### NEW FEATURES
+
+•  Introducing new Sorting Options for your Watchlist, Upcoming list and your Personal Recommendations!
+The sorting feature requires iOS 14.
+
+• Introducing a completely new and redesigned Person Summary : basic information, social links and movie credits are now one tap away!
+
+• Updated Settings style with more icons and more features. If you’re on iOS 14, you now have the possibility to manage your cache and enable pagination on your lists!
+
+
+### NEW PREMIUM FEATURES
+
+• Advanced sorting options, includes more options to sort your Watchlist, Upcoming list and your Personal Recommendations as you want! Drop me your ideas on Twitter or Reddit if you find some you want are missing.
+
+• Introducing My Recommendations: a new way to tell others they should watch one movie or another.
+This list matches the content from your Recommendations on Trakt.
+
+
+### IMPROVEMENTS
+
+• Starting with this version and given you’re using iOS 14, you’ll see a brand new Showcase screen after each update, highlighting new features.
+
+• On iPad, the sidebar now shows you how many items are in your list and on iPhone (or iPad running iPadOS 13) the Lists view shows you how many items are in your Watchlist, Upcoming list and My Recommendations list.
+
+• The pagination has been improved for all available Browsing categories and a new refresh control was added to refresh anytime you want the Browsing view.
+
+• Most of SF Symbols previously filled are now matching the rest of the application’s symbols.
+
+• The image loading and caching has been improved to avoid showing empty image on view transitions.
+
+• Popcorn Movies now takes full support for iPhone 12 mini and iPhone 12 Pro Max.
+
+• After Checking in some movie or scrobbling one (from a Media center), your profile now displays correctly the Now Watching item.
+
+• Popcorn Movies now handles the newly added Trakt errors : VIP User and Rate limiting.
+
+• Never start from your Watchlist ever again with the new State restoration! The app now remembers the last tab your were in or the last Sidebar item you selected and launches from the very same after it’s been killed by the system.
+Also, if you’re transitioning between a compact display size to a regular display size on your iPad, the app automatically switches to the correct view between the TabBar and the Sidebar.
+
+
+---
+
 # **Version 1.2.1**
+
 
 ### NEW FEATURES
 
@@ -50,13 +96,16 @@ The app now delivers smooth animations in your lists, loads images better and fa
 •  iOS/iPad OS 14 users are now able to clear the whole “Recent”
 
 
+---
 
 # **Version 1.2.0**
+
 
 Hey folks!
 
 It's been around 7 months since the lat­est up­date and let me tell you : I've been hard at work!
 This new ver­sion is packed with lots of new fea­tures, im­prove­ments, sys­tem in­te­gra­tions and so much more!
+
 
 ### **What's new**
 
@@ -92,8 +141,8 @@ Your pro­file has been re­designed too, and it dis­plays your in­for­ma­ti
 
 • **Shar­ing Pref­er­ences**  
 From your very own pro­file, you will now be able to up­date your shar­ing pref­er­ences any­time to en­able, for ex­am­ple, shar­ing to Twit­ter while per­form­ing a checkin.
-  
-  
+
+
 ### **Im­prove­ments**
 
 • The ac­count icon has moved from the Set­tings to the top of your lists. It also fea­tures a con­text menu to let you sign out quick­ly.
